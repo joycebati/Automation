@@ -1,3 +1,5 @@
+ADD A NEW PACKAGE;
+GOD BLESS;
 package newpackage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
