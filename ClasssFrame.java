@@ -1,3 +1,5 @@
+ADD A NEW PACKAGE;
+GOD BLESS;
 package newpackage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -12,6 +14,7 @@ public class ClasssFrame {
        
         System.out.println(alertMessage);
         driver.quit();
+		LEARN TO REST BUT NOT TO QUIT();
 	}
 	
 
