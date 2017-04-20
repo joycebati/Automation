@@ -15,6 +15,7 @@ public class ClasssFrame {
        
         System.out.println(alertMessage);
         driver.quit();
+		LEARN TO REST BUT NOT TO QUIT();
 	}
 	
 
